@@ -1,0 +1,4 @@
+# 필요한 경우 기존 프로젝트 설정에 이 구간만 병합하세요.
+# 이 예시 파일 자체는 Codex가 자동으로 로드하지 않습니다.
+[mcp_servers.openaiDeveloperDocs]
+url = "https://developers.openai.com/mcp"
